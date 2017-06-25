@@ -1,4 +1,4 @@
-Instalação
+Instalação </b>
 Instruções de instalação:
 1: Baixe os arquivos sinta.zip e easycar.bcm;
 2: Extraia-os para alguma pasta que desejar;
