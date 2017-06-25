@@ -1,11 +1,11 @@
 Instalação
 Instruções de instalação:
-1: Baixe os arquivos sinta.zip e easycar.bcm;
+1: Baixe os arquivos;
 2: Extraia-os para alguma pasta que desejar;
 3: Abra a pasta SINTA;
 4: Extraia o arquivo sinta32.zip e abra a pasta extraida;
 5: Execute o arquivo ExSINTA.exe;
-6:  Irá abrir uma tela de dicas, se preferir, leia-a, ou senão, feche-a;
+6: Irá abrir uma tela de dicas, se preferir, leia-a, ou senão, feche-a;
 7: Na barra de menu, no canto superior esquerdo, clique em "Arquivo" > "Abrir base...";
 8: Localize e abra o arquivo easycar.bcm;
 9: Clique em iniciar, ou tecle F9 para utilizar o sistema EasyCar!
